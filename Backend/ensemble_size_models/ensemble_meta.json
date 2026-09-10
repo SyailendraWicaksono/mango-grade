@@ -1,0 +1,1 @@
+{"models": ["/content/drive/MyDrive/ensemble_size_models/model_0.keras", "/content/drive/MyDrive/ensemble_size_models/model_1.keras", "/content/drive/MyDrive/ensemble_size_models/model_2.keras"], "class_names": ["Besar", "Kecil", "Sedang"]}

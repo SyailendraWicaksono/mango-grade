@@ -1,0 +1,18 @@
+{
+  "name": "skripsi-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 3000",
+    "build": "next build",
+    "start": "next start -p 3000"
+  },
+  "dependencies": {
+    "next": "13.4.8",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "framer-motion": "^10.12.16",
+    "recharts": "^2.6.2",
+    "lucide-react": "^0.268.0"
+  }
+}
